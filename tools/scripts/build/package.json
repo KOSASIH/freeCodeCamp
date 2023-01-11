@@ -19,7 +19,7 @@
   "author": "freeCodeCamp <team@freecodecamp.org>",
   "main": "none",
   "devDependencies": {
-    "debug": "4.3.2",
+    "debug": "3.1.0",
     "dotenv": "10.0.0",
     "readdirp": "3.6.0"
   }
